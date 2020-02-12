@@ -1,0 +1,15 @@
+{
+  "name": "cloudflare_mcdnsswitch",
+  "version": "1.0.0",
+  "description": "Detects if an MC server goes offline and changes the DNS for that server to a different server that can display a MOTD about the server being offline and preserve uptime and once the server is online again will switch the DNS back to the original server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xboxfly15",
+  "license": "ISC",
+  "dependencies": {
+    "cloudflare": "^2.5.1",
+    "mc-ping-updated": "^0.1.0"
+  }
+}
