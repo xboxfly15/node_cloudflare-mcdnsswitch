@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "cloudflare": "^2.5.1",
-    "mc-ping-updated": "^0.1.0"
+    "mc-ping-updated": "^0.1.1"
   }
 }
