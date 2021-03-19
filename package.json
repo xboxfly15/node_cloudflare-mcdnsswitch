@@ -9,7 +9,7 @@
   "author": "xboxfly15",
   "license": "ISC",
   "dependencies": {
-    "cloudflare": "^2.5.1",
+    "cloudflare": "^2.7.0",
     "mc-ping-updated": "^0.1.0"
   }
 }
