@@ -7,7 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "xboxfly15",
-  "license": "ISC",
   "dependencies": {
     "cloudflare": "^2.7.0",
     "mc-ping-updated": "^0.1.0"
