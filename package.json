@@ -9,6 +9,6 @@
   "author": "xboxfly15",
   "dependencies": {
     "cloudflare": "^2.8.0",
-    "mc-ping-updated": "^0.1.0"
+    "mc-ping-updated": "^0.1.1"
   }
 }
