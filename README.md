@@ -1,2 +1,3 @@
-# njs_cf-mcdnsswitch
-NodeJS application that changes CloudFlare DNS's to a different MC server when the MC server is detected offline and changes back when the MC server returns online
+# node_cloudflare-mcdnsswitch
+
+Detects if an MC server goes offline and changes the DNS for that server to a different server that can display a MOTD about the server being offline and preserve uptime and once the server is online again will switch the DNS back to the original server
